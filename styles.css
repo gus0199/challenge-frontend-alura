@@ -1,0 +1,178 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    background-color: #E5E5E5;
+}
+
+.logo{
+    position: relative;
+    top: 560px;
+    left: 50px;
+    top: 0%;
+    bottom: 0%;
+}
+
+.but_copy{
+    position: absolute;
+    width: 170px;
+    height: 50px;
+    background-color: transparent;
+    font-size: 20px;
+    color: black;
+    cursor: pointer;
+    border-radius: 20px;
+    top: 430px;
+    left: 300px;
+}
+
+.but_copy:hover {
+    background-color: #D8DFE8;
+    cursor: pointer;
+}
+
+#botao1{
+    position: relative;
+    top: 400px;
+    left: 150px;
+    right: 10px;
+    height: 67px;
+    width: 250px;
+    border-radius: 24px;
+    padding: 24px;
+    color: aliceblue;
+    background-color: blue;
+    cursor: pointer;
+}
+
+#botao2{
+    position: relative;
+    top: 400px;
+    left: 160px;
+    height: 67px;
+    width: 250px;
+    border-radius: 24px;
+    padding: 24px;
+    background-color: antiquewhite;
+    cursor:pointer;
+}
+
+#botao1:hover{
+    background: transparent;
+    cursor: pointer;
+}
+
+#botao2:hover{
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.ponto{
+    position: relative;
+    top: 430px;
+    left: 100px;
+    height: 5%;
+    width: 60px;
+    border-radius: 24px;
+    padding: 24px;
+}
+
+.min{
+    position: relative;
+    top: 390px;
+    left: 180px;
+}
+
+#txt{
+    color: black;
+    position: absolute;
+    width: 450px;
+    height: 250px;
+    left: 200px;
+    top: 168px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100px;
+    font-size: 36px;
+    line-height: 120%;
+    border: none;
+    background:transparent;
+}
+
+#branco{
+    position: absolute;
+    width: 530px;
+    height: 500px;
+    left: 730px;
+    top: 40px;
+    background: #FFFFFF;
+    border-radius: 32px;
+}
+
+#parte{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 750px;
+    top: 240px;
+    bottom: 25px;
+    background: white;
+}
+
+#mensagem{
+    position: absolute;
+    width: 336px;
+    height: 58px;
+    left: 830px;
+    top: 90px;
+    background-color: white;
+    text-align: center;
+    overflow: hidden;
+}
+
+#cripto{
+    position: absolute;
+    width: 336px;
+    height: 58px;
+    left: 830px;
+    top: 190px;
+    background-color: white;
+    text-align: center;
+}
+
+.adicional{
+    position: absolute;
+    width: 250px;
+    height: 120px;
+    left: 1000px;
+    top: 300px;
+    background-color: white;
+    text-align: center;
+}
+
+.rodape{
+    position: relative;
+    top: 430px;
+    left: 40%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    justify-content: space-between;
+}
+
+.fa-linkedin{
+color: blue;
+width: 12px;
+}
+
+.fa-github{
+    color: blue;
+}
+
+.linha{
+    position: relative;
+    right: 550px;
+}
+
+#conteudo{
+    background-color: white;
+    text-align: center;
+}
